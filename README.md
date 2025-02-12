@@ -1,4 +1,5 @@
-# Terraform Zero to Hero course
+# Terraform a journey for managing running resources
+So, lets say i want to deploy an web on a virtual instance that requires a SQL storage (Azure SQL) so you will go to the azure portal create 
 
 ## Day 1: Getting Started with Terraform
 
